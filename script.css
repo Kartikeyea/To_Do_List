@@ -1,0 +1,46 @@
+body{
+  background-color: peachpuff;
+}
+.container{
+  background-color: aliceblue;
+  border-style: solid;
+  border-color: blue;
+  width: 410px;
+  margin: auto;
+  position: center;
+  padding: 10px;
+  text-align: center;
+}
+
+input{
+  background-color: aquamarine;
+  border-style: solid;
+  border-color: green;
+  padding: 10px;
+}
+
+button{
+  background-color: cyan;
+  border-style: solid;
+  border-color: blue;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.text ul{
+  position: relative;
+  background-color: lightslategray;
+  border-style: solid;
+  border-color: black;
+  color: white;
+  padding: 10px;
+  text-align: left;
+}
+
+.text ul i{
+  position: absolute;
+  right: 10px;
+  text-align: right;
+  cursor: pointer;
+}
+ 
